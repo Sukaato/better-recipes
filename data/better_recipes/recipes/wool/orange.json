@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "#D#",
+        "###"
+    ],
+    "key": {
+        "#": { "item": "minecraft:white_wool" },
+        "D": { "item": "minecraft:orange_dye" }
+    },
+    "result": {
+        "item": "minecraft:orange_wool",
+        "count": 8
+    },
+    "group": "wool"
+}

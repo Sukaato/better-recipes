@@ -1,0 +1,1 @@
+execute as @a[tag=!has.mine_recipes] at @s run function more_recipes:src/core/unlock_recipes

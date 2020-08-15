@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": { "item": "minecraft:crimson_planks" },
+    "result": "minecraft:crimson_trapdoor",
+    "count": 2
+}

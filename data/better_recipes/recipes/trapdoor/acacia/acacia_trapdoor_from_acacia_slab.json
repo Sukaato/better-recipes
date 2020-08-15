@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": { "item": "minecraft:acacia_slab" },
+    "result": "minecraft:acacia_trapdoor",
+    "count": 1
+}

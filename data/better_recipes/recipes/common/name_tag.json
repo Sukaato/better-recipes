@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        { "item": "minecraft:lead" },
+        { "item": "minecraft:rabbit_hide" },
+        { "item": "minecraft:ink_sac" }
+    ],
+    "result": {
+        "item": "minecraft:name_tag",
+        "count": 1
+    },
+    "group": "name_tag"
+}

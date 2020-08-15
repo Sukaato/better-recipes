@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": { "item": "minecraft:oak_slab" },
+    "result": "minecraft:oak_trapdoor",
+    "count": 1
+}

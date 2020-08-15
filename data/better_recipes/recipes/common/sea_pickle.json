@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#P#",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": { "item": "minecraft:seagrass" },
+        "P": { "item": "minecraft:prismarine_crystals" }
+    },
+    "result": {
+        "item": "minecraft:sea_pickle",
+        "count": 1
+    },
+    "group": "sea_pickle"
+}
